@@ -1,0 +1,14 @@
+Body{
+    background-color: blue;border-style: solid;
+}
+H1{
+    color: aqua;
+    border-style: solid;
+}
+.shadow-text{
+    text-shadow: gray 1px 1px;
+}
+Table{
+   border-style: solid;
+}
+}
